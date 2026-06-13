@@ -1,54 +1,83 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Dong%20Eon%20Lee&fontSize=50&fontAlignY=40)
+
 # 👋 Hi, I'm Dong Eon Lee
 
-- 📱 Flutter Developer
-- 🏗 Interested in Clean Architecture & Scalable Mobile Apps
-- 🤖 Interested in On-device AI & Computer Vision
-- 🎓 B.S. in Software, Kookmin University
+### Flutter Developer
+
+기능 구현에 머무르지 않고, 사용자 문제 해결과 유지보수 가능한 구조를 함께 고민하는 Flutter 개발자입니다.
+
+Flutter를 중심으로 다양한 모바일 서비스를 개발하고 있으며,
+Swift 기반 iOS 개발과 On-device AI, Computer Vision 분야에도 관심을 가지고 있습니다.
 
 ---
 
-### 🛠 Tech Stack
+## 🚀 Featured Projects
 
-#### Mobile
-- Flutter
-- Dart
-- Swift
-- SwiftUI
-
-#### State Management
-- GetX
-
-#### Networking
-- Dio
-- OAuth 2.0
-
-#### AI / Computer Vision
-- OpenCV
-- TensorFlow Lite
-- ONNX Runtime
-- 3DMM
-
-#### Tools
-- Git
-- GitHub
-- Figma
+| Project | Description |
+|----------|------------|
+| 🎥 **FOCUS** | Privacy Protection Live Streaming Platform |
+| 💪 **Gymini** | On-device AI Workout Assistant |
+| 🎵 **얼쑤!아리노리** | Rhythm Game for Cognitive Training |
+| ✈️ **Conever** | Travel Planning & Memory Platform |
 
 ---
 
-### 🚀 Featured Projects
+## 🛠 Tech Stack
 
-- 🎥 FOCUS — Privacy Protection Live Streaming Platform
-- 💪 Gymini — On-device AI Workout Assistant
-- 🎵 얼쑤!아리노리 — Rhythm Game for Cognitive Training
-- ✈️ Conever — Travel Planning & Memory Platform
+### Mobile
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white)
+
+### State Management
+
+![GetX](https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge)
+
+### Networking
+
+![Dio](https://img.shields.io/badge/Dio-000000?style=for-the-badge)
+![OAuth2.0](https://img.shields.io/badge/OAuth2.0-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
+
+### AI / Computer Vision
+
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![TensorFlow Lite](https://img.shields.io/badge/TensorFlowLite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![ONNX Runtime](https://img.shields.io/badge/ONNX_Runtime-005CED?style=for-the-badge)
 
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=47813&layout=compact)
----
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=47813&show_icons=true)
+
+## 🏆 Awards
+
+- 🥉 한국정보기술학회 대학생논문경진대회 동상 (2026)
+- 🏆 국민대학교 졸업작품전 모바일 부문 우수상 (2026)
+- 🥈 GDGoC New Year Hackathon 우수상 (2025)
+- 🥈 CODE-IT × KOSS 연합 해커톤 우수상 (2024)
+- 🥉 CODE-IT × KOSS 연합 해커톤 장려상 (2025)
+
 ---
 
-### 📫 Contact
+## 📚 Research
 
-- 📧 vanguard0956@gmail.com
-- 🔗 LinkedIn
+**시뮬레이터 기반 하이브리드 오프로딩 평가의 한계: MEC 실제 안드로이드 기반 테스트베드 분석**
+
+- 한국정보기술학회 대학생논문경진대회 동상 수상
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=47813&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=47813&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Contact
+
+📧 vanguard0956@gmail.com
+
+🔗 LinkedIn  
+https://www.linkedin.com/in/동언-이-66540532b/
