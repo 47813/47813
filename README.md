@@ -1,33 +1,54 @@
-# 안녕하세요, 이동언입니다 👋
+# 👋 Hi, I'm Dong Eon Lee
 
-Flutter Developer
+- 📱 Flutter Developer
+- 🏗 Interested in Clean Architecture & Scalable Mobile Apps
+- 🤖 Interested in On-device AI & Computer Vision
+- 🎓 B.S. in Software, Kookmin University
 
-기능 구현에 머무르지 않고,
-사용자 문제 해결과 유지보수 가능한 구조를 함께 고민하는 개발자입니다.
+---
 
-## Tech Stack
+### 🛠 Tech Stack
 
+#### Mobile
 - Flutter
 - Dart
 - Swift
 - SwiftUI
+
+#### State Management
 - GetX
+
+#### Networking
 - Dio
+- OAuth 2.0
+
+#### AI / Computer Vision
 - OpenCV
 - TensorFlow Lite
 - ONNX Runtime
+- 3DMM
 
-## Awards
+#### Tools
+- Git
+- GitHub
+- Figma
 
-🏆 국민대학교 졸업작품전 모바일 부문 우수상
+---
 
-🏆 한국정보기술학회 대학생논문경진대회 동상
+### 🚀 Featured Projects
 
-🏆 GDGoC New Year Hackathon 우수상
+- 🎥 FOCUS — Privacy Protection Live Streaming Platform
+- 💪 Gymini — On-device AI Workout Assistant
+- 🎵 얼쑤!아리노리 — Rhythm Game for Cognitive Training
+- ✈️ Conever — Travel Planning & Memory Platform
 
-## Contact
+---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=47813&layout=compact)
+---
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=47813&show_icons=true)
+---
 
-📧 vanguard0956@gmail.com
+### 📫 Contact
 
-🔗 LinkedIn
-https://www.linkedin.com/in/동언-이-66540532b/
+- 📧 vanguard0956@gmail.com
+- 🔗 LinkedIn
