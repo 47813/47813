@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Dong%20Eon%20Lee&fontSize=50&fontAlignY=40)
-
 # 👋 Hi, I'm Dong Eon Lee
 
 ### Flutter Developer
@@ -48,30 +46,11 @@ Swift 기반 iOS 개발과 On-device AI, Computer Vision 분야에도 관심을 
 
 ---
 
-## 🏆 Awards
-
-- 🥉 한국정보기술학회 대학생논문경진대회 동상 (2026)
-- 🏆 국민대학교 졸업작품전 모바일 부문 우수상 (2026)
-- 🥈 GDGoC New Year Hackathon 우수상 (2025)
-- 🥈 CODE-IT × KOSS 연합 해커톤 우수상 (2024)
-- 🥉 CODE-IT × KOSS 연합 해커톤 장려상 (2025)
-
----
-
 ## 📚 Research
 
 **시뮬레이터 기반 하이브리드 오프로딩 평가의 한계: MEC 실제 안드로이드 기반 테스트베드 분석**
 
 - 한국정보기술학회 대학생논문경진대회 동상 수상
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=47813&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=47813&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
